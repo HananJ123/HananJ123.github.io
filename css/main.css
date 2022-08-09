@@ -97,6 +97,10 @@ body {
 
 .features .card-body {
     text-align: left !important;
+} 
+
+.features .card-bodys {
+    text-align: middle !important;
 }
 
 .features .card-title {
@@ -115,6 +119,12 @@ body {
     font-size: 28px !important;
     font-weight: 600 !important;
     color: #AD91FF !important;
+} 
+
+.card-titles {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
 }
 
 .statistics {
